@@ -1,0 +1,27 @@
+{
+  "door.open": {
+    "sounds": [
+      { "name": "maze:dooropen" }
+    ]
+  },
+  "door.close": {
+    "sounds": [
+      { "name": "maze:doorclose" }
+    ]
+  },
+  "maze.horn": {
+    "sounds": [
+      { "name": "maze:horn" }
+    ]
+  },
+  "ship.takeoff": {
+    "sounds": [
+      {"name": "maze:takeoff"}
+    ]
+  },
+  "ship.landing": {
+    "sounds": [
+      {"name": "maze:landing"}
+    ]
+  }
+}
