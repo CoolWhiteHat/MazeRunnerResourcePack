@@ -43,5 +43,15 @@
     "sounds" : [
       {"name": "maze:bell"}
     ]
+  },
+  "ship.takeoff2": {
+    "sounds": [
+      {"name": "maze:takeoff2"}
+    ]
+  },
+  "ship.landing2": {
+    "sounds": [
+      {"name": "maze:landing2"}
+    ]
   }
 }
