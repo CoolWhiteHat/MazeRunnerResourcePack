@@ -43,5 +43,40 @@
     "sounds" : [
       {"name": "maze:bell"}
     ]
-  }
+  },
+  "lab.doors": {
+    "sounds" : [
+      {"name": "maze:lab_doors"}
+    ]
+  },
+  "paiges.recording": {
+    "sounds" : [
+      {"name": "maze:paiges_recording"}
+    ]
+  },
+  "lab.music": {
+    "sounds" : [
+      {"name": "maze:lab_music"}
+    ]
+  },
+  "helicopter.start": {
+    "sounds" : [
+      {"name": "maze:helicopter_start"}
+    ]
+  },
+  "paiges.meeting": {
+    "sounds" : [
+      {"name": "maze:paiges_meeting"}
+    ]
+  },
+  "ending.music": {
+    "sounds" : [
+      {"name": "maze:ending_music"}
+    ]
+  },
+  "helicopter.end": {
+    "sounds" : [
+      {"name": "maze:helicopter_end"}
+    ]
+  },
 }
